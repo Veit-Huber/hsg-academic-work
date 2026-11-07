@@ -1,6 +1,6 @@
 # Academic Work – Veit Norman Huber
 
-Selected coursework from my BSc in Economics at the University of St. Gallen (HSG). Each project is a quantitative question answered with data, an explicit model and a sensitivity or validation step.
+Selected coursework from my BA in Economics at the University of St. Gallen (HSG).
 
 | Project | Topic | Methods | Tools |
 |---|---|---|---|
